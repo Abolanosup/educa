@@ -8,9 +8,9 @@ TG_USER = 'Abolanos3'
 # Database
 DB_LOCAL = False
 DB_HOST = 'db4free.net'
-DB_HOST_USERNAME = 'ghosthell'
-DB_HOST_PASSWORD = 'Ghost0210'
-DB_NAME = ''
+DB_HOST_USERNAME = 'abolanos3'
+DB_HOST_PASSWORD = 'abolanos3'
+DB_NAME = 'abolanos3'
 
 if DB_LOCAL:
     # Database Local
