@@ -7,9 +7,9 @@ TG_ADMIN = 'Ghosthell0210'
 
 # Database
 DB_LOCAL = False
-DB_HOST = 'sql.freedb.tech'
-DB_HOST_USERNAME = ''
-DB_HOST_PASSWORD = ''
+DB_HOST = 'db4free.net'
+DB_HOST_USERNAME = 'ghosthell'
+DB_HOST_PASSWORD = 'Ghost0210'
 DB_NAME = ''
 
 if DB_LOCAL:
